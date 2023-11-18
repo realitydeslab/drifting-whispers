@@ -13,12 +13,10 @@ Wafting Whispers (2023) is an interactive augmented reality art experience to co
 
 ## Authors
 
-Project Lead: Botao Amber Hu
-
-Write-up: Fangting
-Frontend: Amagi, Panda, Qiuqiu
-Contracts / MUD: Jiang
-Unity Developer: Botao Amber Hu
-
-Acknowledgement:
-Write-up Consultant: Xiaochuan
+* Project Lead: Botao Amber Hu
+* Write-up: Fangting
+* Frontend: Amagi, Panda, Qiuqiu
+* Contracts / MUD: Jiang
+* Unity Developer: Botao Amber Hu
+* Acknowledgement:
+  * Write-up Consultant: Xiaochuan
