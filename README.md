@@ -1,5 +1,10 @@
 # Wafting Whispers
 
+## Cover
+
+![Frame 1](https://github.com/holoi/wafting-whispers/assets/2534431/d85a7197-aed1-45e4-ad89-dccfed9470bc)
+
+
 ## Title
 
 Wafting Whispers (2023)
@@ -85,9 +90,6 @@ Lens？
 
 <img width="300" alt="image" src="https://github.com/holoi/wafting-whispers/assets/2534431/76e85a21-6b51-4050-abd9-4a9ff46e308f">
 
-## Cover
-
-![Frame 1](https://github.com/holoi/wafting-whispers/assets/2534431/d85a7197-aed1-45e4-ad89-dccfed9470bc)
 
 ## Authors
 
