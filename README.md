@@ -4,11 +4,13 @@
 
 ![Frame 1](https://github.com/holoi/wafting-whispers/assets/2534431/d85a7197-aed1-45e4-ad89-dccfed9470bc)
 
-## Video 
+## Manifesto Write-up of Wafting Whispers 
 
+This project is a project about liberal arts and social art experiment on medium of Augmented Reality and Autonomous World. 
 
-https://github.com/holoi/wafting-whispers/assets/2534431/e77bc0a3-410c-446d-be6b-afbd5b4fbe57
+Please read our write-up here to understand our manifesto.
 
+**[Wafting Whispers: The Manifesto of Nomadology](https://github.com/holoi/wafting-whispers/edit/main/write-up.md)**
 
 ## Title
 
@@ -25,6 +27,10 @@ Wafting Whispers (2023) is an interactive augmented reality art experience to co
 ## Abstract
 
 Introducing "Wafting Whispers," an avant-garde interactive art social experiment, which establishes a nomadic spatial-social network within the augmented reality (AR) medium. As digital nomads navigate different destinations, they can impart and whisper their thoughts to the AR app, crafting AI representations that mirror their emotional and mental state at a specific time and place. These embodied AI creations, forming a HERE and PRESENT moment version of digital nomads themselves, termed "essences" within our platform, are minted on the blockchain and visualized as lively, engaging sound-reactive blobs within the augmented atmosphere of cityscapes. These digital essences would meander through the augmented urban topology, guided by "the will of nature," meaning they are propelled by the "on-chain digital wind," a real-time representation of winds and air currents derived from data of real-world atmospheric physics, regarded as digital physics in the autonomous world engine. Subsequently, through the AR app, fellow digital nomad can encounter and interact with these essences, conversing with the AI semblances of individuals from ANOTHER locale and a PRIOR moment, thereby forging new, unexpected ties between souls. This art experiment offers a novel form of shared co-presence for individuals across asynchronous times and spaces, building a spatial-social network state atop our physical geospatial reality, all interconnected by the pioneering use of real-world physics data as digital physics, thereby making happenings in mixed reality an authenticated fact on the blockchain for the first time.
+
+## Video for demoing Digital Physics 
+
+https://github.com/holoi/wafting-whispers/assets/2534431/e77bc0a3-410c-446d-be6b-afbd5b4fbe57
 
 ## Trailer Video 
 
