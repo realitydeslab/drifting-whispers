@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@lens-protocol/client": "^2.0.0-alpha.21",
+    "ethers": "^5.7.2",
+    "lens-protocol": "^0.1.5",
+    "node-fetch": "^3.3.2"
+  }
+}
