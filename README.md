@@ -29,7 +29,7 @@ https://vimeo.com/holoi/ethglobal2023
 - Smart Contracts (Digital Physics in Autonomous World engine)
 - Onchain Social Identity 
 
-## Technologies:
+## Tech Stacks:
 
 * An augmented reality app:
   * Game Engine: [Unity 2023.2](https://unity.com)
@@ -46,6 +46,40 @@ https://vimeo.com/holoi/ethglobal2023
   * Social identity: [Lens Protocol](https://www.lens.xyz/)
 * Weather Data
   * Wolfman Mathematica
+
+## **Tech Stack**
+
+**Are you using any Ethereum developer tools for your project?**
+
+**Which programming languages are you using in your project?**
+
+Solidty
+C#
+
+**Are you using any web frameworks for your project?**
+
+Nextjs
+Reactjs
+
+**Are you using any databases for your project?**
+
+MUD
+
+**Are you using any design tools for your project?**
+
+Figma
+
+**Are there any other specific technologies, libraries, frameworks, or tools you're making heavy usage of don't fit into the categories above?**
+
+Unity
+
+****🏆 Judging & Prizes****
+
+Scroll? Mantle?
+
+Mask?
+
+Lens？
 
 ## Logo
 
