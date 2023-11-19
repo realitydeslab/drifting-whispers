@@ -110,5 +110,5 @@ Yes
 * Contracts / MUD: Jiang
 * Unity Developer: Botao Amber Hu
 * Acknowledgements:
-  * Write-up Consultant: Xiaochuan
+  * Write-up Consultant: Xiaochuan, Dracy
 
