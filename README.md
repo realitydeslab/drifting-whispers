@@ -1,12 +1,29 @@
 # Wafting Whispers
 
-* Title: Wafting Whispers
-* Tagline: “Let the wind bring you to me.”
-* Description:
-Wafting Whispers (2023) is an interactive augmented reality art experience to connect nomadic souls, where embodied selves autonomously wafting over digital winds driven by real-world climate data; forming an spatial social network state.
-* Years: 2023
+## Title
 
-Media & Technologies:
+Wafting Whispers (2023)
+
+## Tagline
+
+Let the wind bring you to me.
+
+## Description
+
+Wafting Whispers (2023) is an interactive augmented reality art experience to connect nomadic souls, where embodied selves autonomously wafting over digital winds driven by real-world climate data; forming an spatial social network state.
+
+## Abstract
+
+Introducing "Wafting Whispers," an avant-garde interactive art social experiment, which establishes a nomadic spatial-social network within the augmented reality (AR) medium. As digital nomads navigate different destinations, they can impart and whisper their thoughts to the AR app, crafting AI representations that mirror their emotional and mental state at a specific time and place. These embodied AI creations, forming a HERE and PRESENT moment version of digital nomads themselves, termed "essences" within our platform, are minted on the blockchain and visualized as lively, engaging sound-reactive blobs within the augmented atmosphere of cityscapes. These digital essences would meander through the augmented urban topology, guided by "the will of nature," meaning they are propelled by the "on-chain digital wind," a real-time representation of winds and air currents derived from data of real-world atmospheric physics, regarded as digital physics in the autonomous world engine. Subsequently, through the AR app, fellow digital nomad can encounter and interact with these essences, conversing with the AI semblances of individuals from ANOTHER locale and a PRIOR moment, thereby forging new, unexpected ties between souls. This art experiment offers a novel form of shared co-presence for individuals across asynchronous times and spaces, building a spatial-social network state atop our physical geospatial reality, all interconnected by the pioneering use of real-world physics data as digital physics, thereby making happenings in mixed reality an authenticated fact on the blockchain for the first time.
+
+## Media
+
+Augmented Reality app
+- Digital Physics privided by Autonomous World Engine on Blockchain
+- Geospatial Localization by Google Geospatial API
+- Social identity by Len Protocol. 
+
+## Media & Technologies:
 
 * An augmented reality app:
   * Game Engine: [Unity 2023.2](https://unity.com)
