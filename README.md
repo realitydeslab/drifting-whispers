@@ -65,6 +65,7 @@ https://vimeo.com/holoi/ethglobal2023
   * AI Town: [Convex](https://www.convex.dev/)
 * Social Identity onchain:
   * Social identity: [Lens Protocol](https://www.lens.xyz/)
+  * Mask Next.ID
 * Weather Data
   * Wolfman Mathematica
 
