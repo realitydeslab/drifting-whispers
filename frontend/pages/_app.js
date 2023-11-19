@@ -8,8 +8,9 @@ function MyApp({ Component, pageProps }) {
     <>
       <Sidebar></Sidebar>
       <Hero></Hero>
-      {placeholder("Video Placeholder")}
-      <Component {...pageProps} />
+     < Component {...pageProps} />
+      {/* {placeholder("Video Placeholder")} */}
+      {/* <Component {...pageProps} />
       <iframe
         src="https://philogb.github.io/page/wind"
         name="windmap"
@@ -17,7 +18,7 @@ function MyApp({ Component, pageProps }) {
       />
       <Component {...pageProps} />
       {placeholder("Video Placeholder")}
-      <Component {...pageProps} />
+      <Component {...pageProps} /> */}
       {/* <WindMap /> */}
     </>
   );
