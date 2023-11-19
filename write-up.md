@@ -1,7 +1,9 @@
 
-## Write-up of Wafting Whispers 
+# Wafting Whispers: The Manifesto of Nomadology
 
-By Fangting 
+By Botao Amber Hu (https://botao.hu) and Fangting (https://fangting.me/)
+
+Nov 19, 2023. Istanbul, Turkey. 
 
 *** 
 
