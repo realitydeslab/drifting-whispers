@@ -41,6 +41,9 @@ Introducing "Wafting Whispers," an avant-garde interactive art social experiment
 * Weather Data
   * Wolfman Mathematica
 
+## Logo
+
+<img width="300" alt="image" src="https://github.com/holoi/wafting-whispers/assets/2534431/76e85a21-6b51-4050-abd9-4a9ff46e308f">
 
 ## Authors
 
