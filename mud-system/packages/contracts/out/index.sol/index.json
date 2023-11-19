@@ -1,0 +1,153 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/codegen/index.sol",
+    "id": 81432,
+    "exportedSymbols": {
+      "Players": [
+        82740
+      ],
+      "PlayersData": [
+        81502
+      ],
+      "PlayersTableId": [
+        81488
+      ],
+      "Tasks": [
+        84582
+      ],
+      "TasksData": [
+        82811
+      ],
+      "TasksTableId": [
+        82797
+      ]
+    },
+    "nodeType": "SourceUnit",
+    "src": "32:222:142",
+    "nodes": [
+      {
+        "id": 81423,
+        "nodeType": "PragmaDirective",
+        "src": "32:25:142",
+        "nodes": [],
+        "literals": [
+          "solidity",
+          ">=",
+          "0.8",
+          ".21"
+        ]
+      },
+      {
+        "id": 81427,
+        "nodeType": "ImportDirective",
+        "src": "108:68:142",
+        "nodes": [],
+        "absolutePath": "src/codegen/tables/Tasks.sol",
+        "file": "./tables/Tasks.sol",
+        "nameLocation": "-1:-1:-1",
+        "scope": 81432,
+        "sourceUnit": 84583,
+        "symbolAliases": [
+          {
+            "foreign": {
+              "id": 81424,
+              "name": "Tasks",
+              "nodeType": "Identifier",
+              "overloadedDeclarations": [],
+              "referencedDeclaration": 84582,
+              "src": "117:5:142",
+              "typeDescriptions": {}
+            },
+            "nameLocation": "-1:-1:-1"
+          },
+          {
+            "foreign": {
+              "id": 81425,
+              "name": "TasksData",
+              "nodeType": "Identifier",
+              "overloadedDeclarations": [],
+              "referencedDeclaration": 82811,
+              "src": "124:9:142",
+              "typeDescriptions": {}
+            },
+            "nameLocation": "-1:-1:-1"
+          },
+          {
+            "foreign": {
+              "id": 81426,
+              "name": "TasksTableId",
+              "nodeType": "Identifier",
+              "overloadedDeclarations": [],
+              "referencedDeclaration": 82797,
+              "src": "135:12:142",
+              "typeDescriptions": {}
+            },
+            "nameLocation": "-1:-1:-1"
+          }
+        ],
+        "unitAlias": ""
+      },
+      {
+        "id": 81431,
+        "nodeType": "ImportDirective",
+        "src": "177:76:142",
+        "nodes": [],
+        "absolutePath": "src/codegen/tables/Players.sol",
+        "file": "./tables/Players.sol",
+        "nameLocation": "-1:-1:-1",
+        "scope": 81432,
+        "sourceUnit": 82741,
+        "symbolAliases": [
+          {
+            "foreign": {
+              "id": 81428,
+              "name": "Players",
+              "nodeType": "Identifier",
+              "overloadedDeclarations": [],
+              "referencedDeclaration": 82740,
+              "src": "186:7:142",
+              "typeDescriptions": {}
+            },
+            "nameLocation": "-1:-1:-1"
+          },
+          {
+            "foreign": {
+              "id": 81429,
+              "name": "PlayersData",
+              "nodeType": "Identifier",
+              "overloadedDeclarations": [],
+              "referencedDeclaration": 81502,
+              "src": "195:11:142",
+              "typeDescriptions": {}
+            },
+            "nameLocation": "-1:-1:-1"
+          },
+          {
+            "foreign": {
+              "id": 81430,
+              "name": "PlayersTableId",
+              "nodeType": "Identifier",
+              "overloadedDeclarations": [],
+              "referencedDeclaration": 81488,
+              "src": "208:14:142",
+              "typeDescriptions": {}
+            },
+            "nameLocation": "-1:-1:-1"
+          }
+        ],
+        "unitAlias": ""
+      }
+    ],
+    "license": "MIT"
+  },
+  "id": 142
+}
