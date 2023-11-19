@@ -23,7 +23,7 @@ Let the wind bring you to me.
 
 ## Description
 
-Wafting Whispers (2023) is an interactive augmented reality art experience to connect nomadic souls, where embodied selves autonomously wafting over digital winds driven by real-world climate data; forming an spatial social network state.
+Wafting Whispers (2023) is an interactive augmented reality art experience to connect nomadic souls, where embodied selves autonomously wafting over onchain digital winds driven by real-world climate data; forming an spatial social network state.
 
 ## Abstract
 
