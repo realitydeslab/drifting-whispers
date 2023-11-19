@@ -10,14 +10,18 @@ function MyApp({ Component, pageProps }) {
       <Hero></Hero>
       {placeholder("Video Placeholder")}
       <Component {...pageProps} />
-      {placeholder("Graph Placeholder")}
+      <iframe
+        src="https://philogb.github.io/page/wind"
+        name="windmap"
+        style={{
+          height: "100vh",
+          width: "100%",
+        }}
+      />
       <Component {...pageProps} />
       {placeholder("Video Placeholder")}
       <Component {...pageProps} />
       {/* <WindMap /> */}
-      <div className="py-48">
-        <iframe src="https://philogb.github.io/page/wind" className="w-screen h-[66vh]" name="windmap" />
-      </div>
     </>
   );
 }
