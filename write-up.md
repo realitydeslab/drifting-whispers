@@ -39,7 +39,7 @@ In many streets of Istanbul, there are still many such Essence hidden. where the
 
 ### Spatial Social Network
 
-The structure of Wafting Whispers is that of a spatial social network*. In the age of spatial computing, the boundaries between the real and the virtual will be increasingly shaken, and spatial social networks are the social networks of the future. Compared with on-screen social networks, spatialized social networks emphasize a sense of presence:
+The structure of Wafting Whispers is that of a spatial social network [^1]. In the age of spatial computing, the boundaries between the real and the virtual will be increasingly shaken, and spatial social networks are the social networks of the future. Compared with on-screen social networks, spatialized social networks emphasize a sense of presence:
 
 **Presence of the Self**
 
@@ -76,7 +76,10 @@ The history of all the people in the city is the best history of the city: looki
 - AR digitalizes space
 - AI digitalizes human beings
 
-It is therefore, a source of great virtue for the practiced mind to learn, bit by bit, first to change about invisible and transitory things, so that afterwards it may be able to leave them behind altogether. The man who finds his homeland sweet is still a tender beginner; he to whom every soil is as his native one is already strong; **but he is perfect to whom the entire world is a foreign land** [*perfectus vero cui mundus totus exilium est.*] *
+It is therefore, a source of great virtue for the practiced mind to learn, bit by bit, first to change about invisible and transitory things, so that afterwards it may be able to leave them behind altogether. The man who finds his homeland sweet is still a tender beginner; he to whom every soil is as his native one is already strong; **but he is perfect to whom the entire world is a foreign land** [*perfectus vero cui mundus totus exilium est.*] [^2]
 > 
 
 Become a nomad, and make the whole world your foreign land.
+
+[^1]: Xinyue Ye & Clio Andris (2021) Spatial social networks in geographic information science, International Journal of Geographical Information Science , 35:12, 2375-2379, DOI: 10.1080/13658816.2021.2001722
+[^2]: Auerbach’s quote from Philology and Weltliteratur. Originally written in 1952. Translated by Edward and Maire Said, Centennial Review 13 (1969): 1–17. Hugh of St. Victor’s words come from Book 3, chapter 19 of Didascalicon.
