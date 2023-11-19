@@ -10,7 +10,8 @@ This project is a project about liberal arts and social art experiment on medium
 
 Please read our write-up here to understand our manifesto.
 
-**[Wafting Whispers: The Manifesto of Nomadology](https://github.com/holoi/wafting-whispers/edit/main/write-up.md)**
+**[Wafting Whispers: The Manifesto of Nomadology](https://github.com/holoi/wafting-whispers/blob/main/write-up.md)**
+
 
 ## Title
 
