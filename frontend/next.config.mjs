@@ -11,7 +11,19 @@ const withMDX = mdx({
   },
 })
 
-export default withMDX({
-  // Append the default value with md extensions
-  pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
-})
+// export default withMDX({
+//   // Append the default value with md extensions
+//   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
+// })
+
+export default {
+  ...withMDX({
+    pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
+
+  }),
+  output:'export',
+  images: {
+    loader: "custom",
+    loaderFile: "./image-loader.ts",
+  },
+  }
