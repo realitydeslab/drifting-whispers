@@ -53,7 +53,7 @@ https://vimeo.com/holoi/ethglobal2023
 
 ## Cover
 
-![Uploading Frame 1.png…]()
+![Frame 1](https://github.com/holoi/wafting-whispers/assets/2534431/d85a7197-aed1-45e4-ad89-dccfed9470bc)
 
 ## Authors
 
