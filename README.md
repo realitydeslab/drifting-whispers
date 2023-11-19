@@ -59,29 +59,32 @@ https://vimeo.com/holoi/ethglobal2023
 
 ## **Tech Stack**
 
-*Are you using any Ethereum developer tools for your project?
+### Are you using any Ethereum developer tools for your project?
+Yes 
 
-*Which programming languages are you using in your project?
+### Which programming languages are you using in your project?
+* Solidty
+* C#
+* Typescript
 
-Solidty
-C#
+### Are you using any web frameworks for your project?
+* Next.js
+* React.js
 
-*Are you using any web frameworks for your project?
+### Are you using any databases for your project?
 
-Next.js
-React.js
+* MUD
+* Subgraph
 
-**Are you using any databases for your project?
+### Are you using any design tools for your project?
 
-MUD
+* Figma
 
-**Are you using any design tools for your project?
+### Are there any other specific technologies, libraries, frameworks, or tools you're making heavy usage of don't fit into the categories above?
 
-Figma
+* Unity
+* HoloKit
 
-**Are there any other specific technologies, libraries, frameworks, or tools you're making heavy usage of don't fit into the categories above?
-
-Unity
 
 ## Logo
 
