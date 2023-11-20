@@ -1,5 +1,5 @@
 
-# Wafting Whispers: The Manifesto of Nomadology
+# Drifting Whispers: The Manifesto of Nomadology
 
 By Botao Amber Hu (https://botao.hu) and Fangting (https://fangting.me/)
 
