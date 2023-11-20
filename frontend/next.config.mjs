@@ -1,5 +1,5 @@
-import mdx from '@next/mdx'
-import rehypeSlug from 'rehype-slug'
+import mdx from "@next/mdx"
+import rehypeSlug from "rehype-slug"
 
 const withMDX = mdx({
   extension: /\.mdx?$/,
@@ -18,12 +18,11 @@ const withMDX = mdx({
 
 export default {
   ...withMDX({
-    pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
-
+    pageExtensions: ["ts", "tsx", "js", "jsx", "md", "mdx"],
   }),
-  output:'export',
+  output: "export",
   images: {
     loader: "custom",
     loaderFile: "./image-loader.ts",
   },
-  }
+}
