@@ -37,7 +37,8 @@ a {
   text-underline-offset: 1px;
 }
 
-pre, code {
+pre,
+code {
   font-size: 0.9rem !important;
   white-space: pre-wrap;
 }
@@ -174,7 +175,7 @@ p:hover .footnote-content {
     position: relative;
   }
   .footnote-content {
-    width:0px;
+    width: 0px;
     height: 0px;
     opacity: 0 !important;
     pointer-events: none;
@@ -216,3 +217,72 @@ p:hover .footnote-content {
 }
 
 /* Wind */
+
+/* Signature */
+@media (min-width: 800px) {
+  .ReactModal__Content {
+    inset: 10vh auto auto calc(50vw - 300px) !important;
+    width: 600px !important;
+  }
+}
+
+.metamaskLogo .st0 {
+  fill: #e2761b;
+  stroke: #e2761b;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.metamaskLogo .st1 {
+  fill: #e4761b;
+  stroke: #e4761b;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.metamaskLogo .st2 {
+  fill: #d7c1b3;
+  stroke: #d7c1b3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.metamaskLogo .st3 {
+  fill: #233447;
+  stroke: #233447;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.metamaskLogo .st4 {
+  fill: #cd6116;
+  stroke: #cd6116;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.metamaskLogo .st5 {
+  fill: #e4751f;
+  stroke: #e4751f;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.metamaskLogo .st6 {
+  fill: #f6851b;
+  stroke: #f6851b;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.metamaskLogo .st7 {
+  fill: #c0ad9e;
+  stroke: #c0ad9e;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.metamaskLogo .st8 {
+  fill: #161616;
+  stroke: #161616;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.metamaskLogo .st9 {
+  fill: #763d16;
+  stroke: #763d16;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
