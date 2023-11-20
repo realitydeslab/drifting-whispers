@@ -1,6 +1,5 @@
 import "tailwindcss/tailwind.css";
 import "./styles.css";
-import Hero from "./hero";
 import Sidebar from "../components/Sidebar";
 
 function MyApp({ Component, pageProps }) {
