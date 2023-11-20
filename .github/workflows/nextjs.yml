@@ -77,10 +77,10 @@ jobs:
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       - name: Build with Next.js
         working-directory: ./frontend
-        run: ${{ steps.detect-package-manager.outputs.runner }} npm run build
+        run: ${{ steps.detect-package-manager.outputs.runner }} run build
       - name: Static HTML export with Next.js
         working-directory: ./frontend
-        run: ${{ steps.detect-package-manager.outputs.runner }} npm run export
+        run: ${{ steps.detect-package-manager.outputs.runner }} run export
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
