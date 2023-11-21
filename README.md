@@ -1,6 +1,12 @@
-# Drifting Whispers
+# Drifting Whispers (2023)
+
+Drifting Whispers (2023) is an interactive augmented reality art experience to connect nomadic souls, where embodied selves autonomously drifting over onchain digital winds driven by real-world climate data; forming an spatial social network state.
+
+"Let the wind bring you to me."
 
 ## Cover
+
+https://github.com/holoi/drifting-whispers/assets/2534431/3cd03b0c-9915-4a97-a050-417f156fa8a9
 
 ![Frame 1](https://github.com/holoi/drifting-whispers/assets/2534431/d85a7197-aed1-45e4-ad89-dccfed9470bc)
 
@@ -12,18 +18,6 @@ Please read our write-up here to understand our manifesto.
 
 **[Drifting Whispers: The Manifesto of Nomadology](https://github.com/holoi/drifting-whispers/blob/main/write-up.md)**
 
-
-## Title
-
-Drifting Whispers (2023)
-
-## Tagline
-
-Let the wind bring you to me.
-
-## Description
-
-Drifting Whispers (2023) is an interactive augmented reality art experience to connect nomadic souls, where embodied selves autonomously drifting over onchain digital winds driven by real-world climate data; forming an spatial social network state.
 
 ## Abstract
 
@@ -39,9 +33,7 @@ https://github.com/holoi/drifting-whispers/assets/2534431/e77bc0a3-410c-446d-be6
 
 ## Trailer Video 
 
-https://vimeo.com/holoi/ethglobal2023
-
-(We will change later) 
+https://vimeo.com/holoi/drifting-whispers
 
 ## Media
 
